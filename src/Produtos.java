@@ -10,4 +10,9 @@
  */
 public class Produtos {
     
+    public static void main(String[] args){
+        String nome = "Pendrive";
+        String cod ="0001";
+    }
+    
 }
