@@ -8,9 +8,8 @@
  *
  * @author IFNMG
  */
-public class Produtos {
-
-        String nome = "Pendrive";
-        String cod ="0001";
+public class Clientes {
+     String nome = "Matheus Agostinho";
+     String tel = "(38)9999-9999";
     
 }
